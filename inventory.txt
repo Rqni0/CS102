@@ -1,0 +1,4 @@
+Apples,1.5,Fruit,3
+Bananas,3.5,Fruit,12
+Mangoes,2.5,Fruit,10
+Oranges,4.5,Fruit,10
